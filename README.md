@@ -1,5 +1,5 @@
 ### Git Large File Storage (LFS)使用
-1.git push时报错：
+1. git push时报错：
 ```
 remote: warning: File libavformat.a is 52.56 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
 remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
